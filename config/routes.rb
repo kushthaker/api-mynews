@@ -3,6 +3,9 @@ Rails.application.routes.draw do
   root 'api#home'
 
   get '/api/nytimes', to: 'api#nytimes'
+  get '/api/producthunt', to: 'api#producthunt'
+  get '/api/genius', to: 'api#genius'
+  get '/api/dribble', to: 'api#dribble'
   
 
   # The priority is based upon order of creation: first created -> highest priority.
