@@ -23,6 +23,11 @@ def dribble
 	render json: response
 end
 
+def bills
+	response = HTTParty.get('http://api.parliamentdata.ca/bills')
+	render json: response
+end
+
 end
 
 
