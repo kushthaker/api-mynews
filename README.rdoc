@@ -2,6 +2,7 @@ Rails is probably overkill for this, but this app is purely to make requests to 
 
 Future implementation: Node, express, angular setup as seen in the your vote app, or a lighter weight cross-origin api using Sinatra.
 
-https://limitless-scrubland-6517.herokuapp.com/
-https://github.com/kushthaker/your-vote
+Heroku for this api: https://limitless-scrubland-6517.herokuapp.com/
+
+Your vote app: https://github.com/kushthaker/your-vote
 
