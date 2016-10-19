@@ -1446,3 +1446,105 @@ Completed 200 OK in 505ms (Views: 24.2ms | ActiveRecord: 0.0ms)
 Started GET "/api/producthunt" for ::1 at 2015-08-29 17:26:54 -0400
 Processing by ApiController#producthunt as HTML
 Completed 200 OK in 422ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-10-19 10:36:04 -0400
+Processing by ApiController#home as HTML
+  Rendered api/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 1600ms (Views: 1586.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-10-19 10:36:05 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-10-19 10:36:05 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-10-19 10:36:05 -0400
+
+
+Started GET "/assets/api.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-10-19 10:36:05 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-10-19 10:36:05 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-10-19 10:36:06 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-10-19 10:36:06 -0400
+
+
+Started GET "/api/nytimes" for ::1 at 2016-10-19 10:36:10 -0400
+Processing by ApiController#nytimes as HTML
+Completed 200 OK in 572ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/producthunt" for ::1 at 2016-10-19 10:36:17 -0400
+Processing by ApiController#producthunt as HTML
+Completed 200 OK in 2661ms (Views: 152.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-10-19 10:40:09 -0400
+Processing by ApiController#home as HTML
+  Rendered api/home.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 554ms (Views: 533.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-10-19 14:20:15 -0400
+Processing by ApiController#home as HTML
+  Rendered api/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 353ms (Views: 341.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-10-19 14:20:16 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-10-19 14:20:16 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-10-19 14:20:16 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-10-19 14:20:16 -0400
+
+
+Started GET "/assets/api.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-10-19 14:20:16 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-10-19 14:20:16 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-10-19 14:20:16 -0400
+
+
+Started GET "/" for ::1 at 2016-10-19 14:21:36 -0400
+Processing by ApiController#home as HTML
+  Rendered api/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 18ms (Views: 17.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-10-19 14:21:36 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-10-19 14:21:36 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-10-19 14:21:36 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-10-19 14:21:36 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-10-19 14:21:36 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-10-19 14:21:36 -0400
+
+
+Started GET "/assets/api.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-10-19 14:21:36 -0400
+
+
+Started GET "/api/trello_cards" for ::1 at 2016-10-19 14:21:49 -0400
+Processing by ApiController#trello_cards as HTML
+Completed 200 OK in 692ms (Views: 5.5ms | ActiveRecord: 0.0ms)

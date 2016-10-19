@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   get '/api/producthunt', to: 'api#producthunt'
   get '/api/genius', to: 'api#genius'
   get '/api/dribble', to: 'api#dribble'
+  get '/api/trello_cards', to: 'api#trello_cards'
   
 
   # The priority is based upon order of creation: first created -> highest priority.
