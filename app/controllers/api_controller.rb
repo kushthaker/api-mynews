@@ -3,7 +3,7 @@ class ApiController < ApplicationController
 def home
 end
 
-# Does Not Work
+# Change credentials
 def nytimes
 	response = HTTParty.get('http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7?api-key=8adaa431139b3e23bdb45bbd057b7af8:15:72555388')
 	render json: response
@@ -21,7 +21,7 @@ def genius
 	render json: response
 end
 
-# Does Not Work
+# Change credentials
 def dribble
 	response = HTTParty.get('https://api.dribbble.com/v1/shots?access_token=00e945e8643beb4a86f77ac5ac5af0989d248a81b0608f4706d78db9febdd49c')
 	render json: response
